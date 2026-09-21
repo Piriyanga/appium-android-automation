@@ -267,6 +267,8 @@ This project demonstrates:
 
 ## Author
 
-Created by **Your Name** as part of a QA Automation portfolio.
+Created by Piriyanga Christopher as part of a QA Automation portfolio.
 
-Replace `Your Name` with your real name before publishing.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
