@@ -1,0 +1,13 @@
+image: maven:3.9.9-eclipse-temurin-17
+
+stages:
+  - validate
+
+validate_project:
+  stage: validate
+  script:
+    - echo "Validating Maven project..."
+    - mvn clean test-compile
+  only:
+    - main
+    - merge_requests
